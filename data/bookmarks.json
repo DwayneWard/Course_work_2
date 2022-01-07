@@ -1,0 +1,20 @@
+[
+  {
+    "poster_name": "hank",
+    "poster_avatar": "https://randus.org/avatars/m/383c7e7e3c3c1818.png",
+    "pic": "https://images.unsplash.com/photo-1612450632008-22c2a5437dc1?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=580&q=80",
+    "content": "Смотрите-ка – ржавые елки! Раньше на этом месте была свалка старых машин, а потом все засыпали песком. Теперь тут ничего не растет – только ржавые елки , кусты и грязь. Да и не может тут ничего расти: слишком много пыли и песка. Зато теперь стало очень красиво – все-таки это не свалка.",
+    "views_count": 187,
+    "likes_count": 67,
+    "pk": 3
+  },
+  {
+    "poster_name": "johnny",
+    "poster_avatar": "https://randus.org/avatars/m/00183c7e3c382499.png",
+    "pic": "https://images.unsplash.com/photo-1482112252853-a77ee8d9a8cc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=867&q=80",
+    "content": "Вот обычная лампочка, которая может стать для тебя новым смыслом жизни.",
+    "views_count": 299,
+    "likes_count": 134,
+    "pk": 6
+  }
+]
